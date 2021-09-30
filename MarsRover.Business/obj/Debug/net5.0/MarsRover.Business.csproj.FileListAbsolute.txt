@@ -1,0 +1,15 @@
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.deps.json
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.dll
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\ref\MarsRover.Business.dll
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\MarsRover.Business.pdb
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\MarsRover.Model.dll
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\bin\Debug\net5.0\MarsRover.Model.pdb
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.AssemblyReference.cache
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.AssemblyInfo.cs
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.csproj.CopyComplete
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.dll
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\ref\MarsRover.Business.dll
+C:\Users\TBMM\source\repos\MarsRover\MarsRover.Business\obj\Debug\net5.0\MarsRover.Business.pdb
